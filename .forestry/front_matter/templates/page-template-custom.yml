@@ -26,3 +26,5 @@ fields:
   config:
     required: false
   label: random
+pages:
+- content/en/title.md
