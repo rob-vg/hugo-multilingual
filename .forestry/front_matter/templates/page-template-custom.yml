@@ -1,0 +1,30 @@
+---
+label: Page template custom
+hide_body: true
+fields:
+- name: slug
+  type: text
+  config:
+    required: false
+  label: slug
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: content
+- name: random
+  type: text
+  config:
+    required: false
+  label: random
+pages:
+- content/en/title.md
