@@ -14,7 +14,6 @@ theme = "ananke"
     languageName = 'Nederlands'
     weight = 20
 
-
   [languages.de]
     contentDir = 'content/de'
     languageName = 'Deutsch'
