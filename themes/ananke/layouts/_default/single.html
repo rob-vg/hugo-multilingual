@@ -8,6 +8,19 @@
   <article class="flex-l flex-wrap justify-between mw8 center ph3">
     <header class="mt4 w-100">
       <h1>I am _default/single template</h1>
+
+
+      <h3>Sections should go here...</h3>
+
+      {{ range .Params.page_sections }}
+      {{ if eq "hero-section" .template }}
+        {{ partial "blocks/hero" . }}
+      {{ end }}
+        {{ if eq "call-to-action" .template }}
+          {{ partial "blocks/cta" . }}
+        {{ end }}
+      {{ end }}
+
       <aside class="instapaper_ignoref b helvetica tracked">
           {{/*
           CurrentSection allows us to use the section title instead of inferring from the folder.
