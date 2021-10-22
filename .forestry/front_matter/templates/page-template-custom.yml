@@ -29,7 +29,8 @@ fields:
 - name: block
   type: blocks
   label: Block
-  template_types: []
+  template_types:
+  - hero-section
   config:
     min: 
     max: 
