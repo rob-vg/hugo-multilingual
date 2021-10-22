@@ -26,5 +26,12 @@ fields:
   config:
     required: false
   label: random
+- name: block
+  type: blocks
+  label: Block
+  template_types: []
+  config:
+    min: 
+    max: 
 pages:
 - content/en/title.md
