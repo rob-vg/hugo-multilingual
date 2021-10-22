@@ -26,9 +26,9 @@ fields:
   config:
     required: false
   label: random
-- name: block
+- name: page_sections
   type: blocks
-  label: Block
+  label: Page Sections
   template_types:
   - hero-section
   config:
