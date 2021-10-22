@@ -5,13 +5,28 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: content/nl
+  label: NL
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/es
+  label: ES
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/de
+  label: DE
+  create: all
+  match: "**/*"
+- type: directory
   path: content/fr
-  label: Fr
+  label: FR
   create: all
   match: "**/*"
 - type: directory
   path: content/en
-  label: En
+  label: EN
   create: all
   match: "**/*"
 upload_dir: static/uploads
