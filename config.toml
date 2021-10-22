@@ -9,6 +9,22 @@ theme = "ananke"
     languageName = 'English'
     weight = 10
 
+  [languages.nl]
+    contentDir = 'content/nl'
+    languageName = 'Nederlands'
+    weight = 20
+
+
+  [languages.de]
+    contentDir = 'content/de'
+    languageName = 'Deutsch'
+    weight = 20
+
+  [languages.es]
+    contentDir = 'content/es'
+    languageName = 'Español'
+    weight = 20
+
   [languages.fr]
     contentDir = 'content/fr'
     languageName = 'Français'
