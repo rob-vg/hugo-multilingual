@@ -2,6 +2,20 @@
 {{ define "main" }}
   <div class="flex-l mt2 mw8 center">
     <h1>I am the single template</h1>
+
+
+      <h3>Sections should go here...</h3>
+
+      {{ range .Params.page_sections }}
+      {{ if eq "hero-section" .template }}
+        {{ partial "blocks/hero" . }}
+      {{ end }}
+        {{ if eq "call-to-action" .template }}
+          {{ partial "blocks/cta" . }}
+        {{ end }}
+      {{ end }}
+
+    
     <article class="center cf pv5 ph3 ph4-ns mw7">
       <header>
         <p class="f6 b helvetica tracked">
