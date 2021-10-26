@@ -18,5 +18,8 @@ title = ""
 [[page_sections]]
 template = "hero-section"
 title = ""
+[[page_sections]]
+template = "hero-section"
+title = ""
 
 +++
