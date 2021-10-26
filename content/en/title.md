@@ -1,6 +1,6 @@
 +++
 content = "content"
-random = "random"
+random = "random text"
 slug = "new-template"
 title = "WITH BLOCKS"
 [[block]]
