@@ -28,3 +28,6 @@ theme = "ananke"
     contentDir = 'content/fr'
     languageName = 'Français'
     weight = 20
+
+[markup.goldmark.renderer]
+unsafe = true
