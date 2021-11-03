@@ -2,83 +2,83 @@
 title: Success Story Example
 author: admin
 type: post
-date: 2021-11-02T09:51:59+00:00
-url: /success-story-example/
+date: 2021-11-02T09:51:59.000+00:00
+url: "/success-story-example/"
 categories:
-  - Uncategorized
+- Uncategorized
 
 ---
 <main>
 
 <div class="features-row">
-  <div class="">
-    <div class="">
-      <div class="">
-        <div class="">
-          <div class="" id="removeMe">
-          </div>
-          <div class="">
-            <div class="">
-              <div class="">
-                <div class="">
-                  <h1>
-                    <span>Power40 – Creating An Ecosystem of Health Using Technology</span>
-                  </h1>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="" id="removeMe">
-          </div>
-        </div>
-      </div>
-      <div class="">
-        <div class="">
-          <div class="" id="removeMe">
-          </div>
-          <div class="">
-            <div class="">
-              <div class="">
-                <div class="">
-                  <p>
-                    Be it in the mornin&#8217; sun or when the evenin&#8217; comes, Memphis is always on the move – and <strong>few places are moving as fast towards technological transformation as Power40.</strong>
-                  </p>
-                  <p>
-                    Here, members can boogie on down to dynamic 40-minute workouts while also getting their fitness fix at home thanks to the studio’s <strong>robust and elegantly designed digital fitness platform.</strong>
-                  </p>
-                  <p>
-                    This boutique brainchild of the YMCA prides itself on retaining <strong>all the positive trappings of the Y</strong> while providing members the sort of <strong>rockstar rush of working out</strong> at an exclusive fitness club. Think, flashing lights, dance music, and state-of-the-art fitness equipment.
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="" id="removeMe">
-          </div>
-        </div>
-      </div>
-      <div class="">
-        <div class="single-quote-row">
-          <div class="" id="removeMe">
-          </div>
-          <div class="">
-            <div class="">
-              <div class="">
-                <div class="">
-                  <img src="https://business.virtuagym.com/wp-content/uploads/2018/11/quote.png" class="" />
-                </div>
-              </div>
-            </div>          
-            <div class="">
-              <div class="">
-                <div class="">
-                  <h2>
-                    I think innovation is relative… the use of the app may not be innovative in the global health and wellness space, but the way we’ve designed the app works with the atmosphere we’ve created in the physical space.
-                  </h2>
-                </div>
-              </div>
-            </div>
-            
+<div class="">
+<div class="">
+<div class="">
+<div class="">
+<div class="" id="removeMe">
+</div>
+<div class="">
+<div class="">
+<div class="">
+<div class="">
+<h1>
+<span>Power40 – Creating An Ecosystem of Health Using Technology</span>
+</h1>
+</div>
+</div>
+</div>
+</div>
+<div class="" id="removeMe">
+</div>
+</div>
+</div>
+<div class="">
+<div class="">
+<div class="" id="removeMe">
+</div>
+<div class="">
+<div class="">
+<div class="">
+<div class="">
+<p>
+Be it in the mornin’ sun or when the evenin’ comes, Memphis is always on the move – and <strong>few places are moving as fast towards technological transformation as Power40.</strong>
+</p>
+<p>
+Here, members can boogie on down to dynamic 40-minute workouts while also getting their fitness fix at home thanks to the studio’s <strong>robust and elegantly designed digital fitness platform.</strong>
+</p>
+<p>
+This boutique brainchild of the YMCA prides itself on retaining <strong>all the positive trappings of the Y</strong> while providing members the sort of <strong>rockstar rush of working out</strong> at an exclusive fitness club. Think, flashing lights, dance music, and state-of-the-art fitness equipment.
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="" id="removeMe">
+</div>
+</div>
+</div>
+<div class="">
+<div class="single-quote-row">
+<div class="" id="removeMe">
+</div>
+<div class="">
+<div class="">
+<div class="">
+<div class="">
+<img src="https://business.virtuagym.com/wp-content/uploads/2018/11/quote.png" class="" />
+</div>
+</div>
+</div>  
+<div class="">
+<div class="">
+<div class="">
+<h2>
+I think innovation is relative… the use of the app may not be innovative in the global health and wellness space, but the way we’ve designed the app works with the atmosphere we’ve created in the physical space.
+</h2>
+</div>
+</div>
+</div>
+
             <div class="">
               <div class="">
                 <div class="">
