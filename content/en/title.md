@@ -11,7 +11,7 @@ template = "hero-section"
 title = ""
 [[page_sections]]
 template = "hero-section"
-title = ""
+title = "Small Form Title"
 [[page_sections]]
 template = "hero-section"
 title = ""
@@ -23,5 +23,18 @@ recipient = "robkehoe@virtuagym.com"
 sections = []
 submit_text = "Submit!"
 type = "long"
+[[page_sections]]
+template = "simple-form"
+title = "Small Form Title"
+[page_sections.form]
+recipient = "robkehoe@virtuagym.com"
+submit_text = "Submit!"
+type = "simple"
+[[page_sections.form.fields]]
+description = "description"
+label = "example label"
+name = "example"
+template = "text-field"
+type = "text"
 
 +++
