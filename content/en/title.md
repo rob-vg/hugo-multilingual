@@ -15,5 +15,13 @@ title = ""
 [[page_sections]]
 template = "hero-section"
 title = ""
+[[page_sections]]
+template = "large-form"
+title = ""
+[page_sections.form]
+recipient = "robkehoe@virtuagym.com"
+sections = []
+submit_text = "Submit!"
+type = "long"
 
 +++
