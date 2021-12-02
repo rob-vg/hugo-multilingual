@@ -31,6 +31,8 @@ fields:
   label: Page Sections
   template_types:
   - hero-section
+  - simple-form
+  - large-form
   config:
     min: 
     max: 
