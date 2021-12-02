@@ -17,7 +17,7 @@ template = "hero-section"
 title = ""
 [[page_sections]]
 template = "large-form"
-title = ""
+title = "Large Form - Title"
 [page_sections.form]
 recipient = "robkehoe@virtuagym.com"
 sections = []
