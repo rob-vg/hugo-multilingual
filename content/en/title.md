@@ -36,5 +36,12 @@ label = "example label"
 name = "example"
 template = "text-field"
 type = "text"
+[[page_sections.form.fields]]
+description = ""
+label = "kkklkl"
+name = "asdpasdj"
+options = ["option 3", "option 2", "option 1"]
+template = "radio"
+type = "radio"
 
 +++
