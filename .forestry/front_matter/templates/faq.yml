@@ -8,3 +8,5 @@ fields:
     required: false
   label: title
   description: title of the FAQ
+pages:
+- content/en/FAQs/what-is-vg.md
