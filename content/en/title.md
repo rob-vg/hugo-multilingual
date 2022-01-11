@@ -2,7 +2,7 @@
 content = "content klmlklkm kl lkn lk "
 random = "random text"
 slug = "new-template"
-title = "WITH BLOCKS - TEST PREVIEW"
+title = "WITH BLOCKS - TEST PREVIEWx"
 [[block]]
 template = "hero-section"
 title = ""
